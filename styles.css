@@ -28,6 +28,8 @@ main {
     position: relative;
     align-items: center;
     padding: 4px 0;
+	width: 33.33%;
+	height:65%;
 }
 
 .fa-ellipsis-vertical {
